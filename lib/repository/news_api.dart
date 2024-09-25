@@ -5,7 +5,6 @@ import 'package:http/http.dart' as http;
 import '../model/articles_list_model.dart';
 
 class NewsApi extends ClassRepository {
-  // put the API key here
   var keyApi = "78727a1410704b2288e83d61f1c0406f";
 
   @override
